@@ -6,10 +6,6 @@ import lombok.*;
 @Entity
 @Table(name = "movies_list")
 @Data
-@Getter
-@Setter
-@NoArgsConstructor
-@AllArgsConstructor
 
 public class MoviesCreation {
 
